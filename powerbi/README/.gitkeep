@@ -1,0 +1,26 @@
+# 📊 Power BI – Análisis Financiero del Fútbol
+
+Este directorio contiene el archivo de Power BI con los dashboards del proyecto.
+
+## 📄 Archivo
+- `analisis_financiero_futbol.pbix`
+
+## 🧠 Contenido del dashboard
+El dashboard incluye visualizaciones enfocadas en:
+- Análisis financiero por club
+- Comparación de ligas
+- Inversión en fichajes
+- Valor de mercado de jugadores
+- Tendencias temporales del mercado
+
+## 🎯 Objetivo del dashboard
+Facilitar la interpretación de datos financieros del fútbol para:
+- Análisis estratégico
+- Comparación entre clubes y ligas
+- Evaluación de eficiencia en inversiones deportivas
+
+## 👥 Usuarios objetivo
+- Analistas de datos
+- Directivos deportivos
+- Analistas financieros
+- Usuarios no técnicos interesados en la industria del fútbol

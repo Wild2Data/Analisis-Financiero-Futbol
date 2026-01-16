@@ -1,0 +1,25 @@
+# 📂 Datos del proyecto
+
+Este directorio contiene el dataset utilizado para el análisis financiero y de mercado del fútbol.
+
+## 📄 Archivo principal
+- `dataset_futbol.xlsx`
+
+## 🧾 Descripción
+El dataset incluye información relacionada con:
+- Clubes de fútbol
+- Ligas
+- Jugadores
+- Valores de mercado
+- Fichajes y transferencias
+- Temporadas deportivas
+
+Los datos se utilizan como base para el modelado y visualización en Power BI.
+
+## 🧹 Tratamiento de datos
+- Limpieza básica en Excel
+- Validación de campos
+- Estructuración para análisis financiero
+
+> Nota:  
+> Este proyecto no utiliza SQL. El análisis se realiza directamente sobre datos estructurados en Excel.

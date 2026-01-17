@@ -112,8 +112,7 @@ El proyecto incluye dashboards enfocados en:
 Analista de Inteligencia de Negocios y Datos  
 
 🔗 LinkedIn: https://www.linkedin.com/in/williams-alberto-aguilera-león  
-📊 Portafolio: https://www.novypro.com/
-
+📊 Portafolio: https://https://www.novypro.com/profile_about/1767675893537x292442675855720600
 ---
 
 Este proyecto forma parte de mi portafolio profesional enfocado en **análisis financiero, Business Intelligence y visualización de datos aplicados a industrias reales**.

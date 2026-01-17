@@ -90,7 +90,7 @@ El proyecto incluye dashboards enfocados en:
 - Tendencias temporales del fútbol como industria
 
 🔗 **Ver dashboard en Power BI / NovyPro:**  
-*(agregar enlace cuando esté publicado)*
+*([agregar enlace cuando esté publicado](https://www.novypro.com/create_project/analisis-financiero-futbol?Popup=memberProfile&Data=1767675893537x292442675855720600))*
 
 ---
 

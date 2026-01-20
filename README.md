@@ -144,4 +144,9 @@ Analista de Inteligencia de Negocios y Datos
 
 Este proyecto forma parte de mi portafolio profesional enfocado en **análisis financiero, Business Intelligence y visualización de datos aplicados a industrias reales**.
 
+---
 
+### 🛠️ Tecnologías y Metadatos
+![SQL](https://img.shields.io/badge/SQL-Expert-blue) ![Power BI](https://img.shields.io/badge/Power_BI-Advanced-yellow) ![License](https://img.shields.io/badge/License-MIT-green)
+
+**Keywords:** Finanzas Deportivas, ROI, Análisis de Fichajes, Modelado de Datos, ETL.

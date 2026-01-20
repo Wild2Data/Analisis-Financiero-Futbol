@@ -30,6 +30,34 @@ Este proyecto se plantea desde una **perspectiva de negocio**, entendiendo al f�
 
 ---
 
+### 🏗️ Arquitectura de Datos y Modelo Relacional
+
+
+
+Para garantizar la precisión en el análisis de rentabilidad y eficiencia de los fichajes, diseñé una estructura de datos robusta que permite cruzar métricas financieras con resultados deportivos de múltiples ligas.
+
+
+
+![Modelo de Datos - Fútbol](https://github.com/Wild2Data/Analisis-Financiero-Futbol/blob/main/images/README/Modelo%20Relacional%20Futbol.png?raw=true)
+
+
+
+#### Especificaciones Técnicas del Modelo:
+
+* **Arquitectura:** Esquema en **Estrella (Star Schema)** enfocado en la optimización de medidas DAX complejas.
+
+* **Tabla de Hechos:** Centralizada en los movimientos del mercado de fichajes e inversión salarial para asegurar una granularidad fina por jugador y club.
+
+* **Dimensiones Clave:** Implementación de dimensiones de **Ligas**, **Clubes**, **Temporadas** y **Resultados**, permitiendo filtros cruzados dinámicos sin pérdida de integridad referencial.
+
+* **Normalización:** Proceso de limpieza y estructuración de datos para estandarizar valores de mercado y monedas entre diferentes contextos competitivos.
+
+
+
+*Este diseño asegura que el dashboard sea escalable y que los cálculos de ROI (Retorno de Inversión) se ejecuten con alta velocidad de procesamiento.*
+
+---
+
 ## 🧠 Enfoque analítico
 
 El análisis se centra en:
